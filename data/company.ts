@@ -182,8 +182,19 @@ const allCompanies: Company[] = [
       telegram: "",
     },
   },
-
-
+{
+    id: 15,
+    name: "Shard Labs",
+    logo: "shardlabs.jpeg",
+    network: {
+      website: "https://shardlabs.io/",
+      github: "https://github.com/Shard-Labs",
+      twitter: "https://twitter.com/shard_labs",
+      medium: "",
+      discord: "",
+      telegram: "",
+    },
+  },
 ];
 
 export default allCompanies;
